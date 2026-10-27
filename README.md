@@ -21,3 +21,11 @@ This section will help you install **sleepy**.
   Click **save** and close the window.
 
 When you do these steps, **sleepy** should be installed system-wide for all users.
+
+
+## Donate to the creator in cryptocurrency here:
+`LVKxBajqko2nGsqcehTaBDVcarFhKZuVxP` - Litecoin
+
+`bc1qaqnclhck90egsssd0kn7m4226u4xhn9c6qvnnp` - Bitcoin
+
+`0x4407Ec4dc4B2E9D9d2bc26aF90D01Fd21Edc9B89` - BNB
