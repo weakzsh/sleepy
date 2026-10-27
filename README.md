@@ -1,6 +1,7 @@
 # sleepy
 Sleepy is a programming language designed for being expectable and readable.
 It's syntax is made to be understood even if you don't know the language.
+**Sleepy is licensed under the Mozilla Public License Version 2.0, check `LICENSE` for more information.**
 
 ## changelog
 This section contains recent updates for **sleepy**.
