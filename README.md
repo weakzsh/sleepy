@@ -18,6 +18,6 @@ This section will help you install **sleepy**.
   And press **Enviroment variables...** button.
   Open the program, and double click on **Path**.
   Then, press **Edit** and copy & paste the path to the **sleepy** executable.
-  Click **save
+  Click **save** and close the window.
 
 When you do these steps, **sleepy** should be installed system-wide for all users.
